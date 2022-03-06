@@ -1,0 +1,4 @@
+entity_vector.model.bin
+entity_vector.model.txt
+.ipynb_checkpoints/*
+.DS_Store
